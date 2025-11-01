@@ -1,16 +1,16 @@
-# ACE SPL-Token
+# ANVL SPL-Token
 
-This project is for creating and minting a token called `ACE` on the Solana devnet cluster using the `gill` solana client library.
+This project is for creating and minting a token called `ANVL` on the Solana devnet cluster using the `gill` solana client library.
 
 
 ## Script
 
-The main script in this project is `ace_token_mint.ts`, which creates and mints a new token on the Solana devnet.
+The main script in this project is `token_mint.ts`, which creates and mints a new token on the Solana devnet.
 
 To run the script, execute the following command:
 
 ```bash
-node ace_token_mint.ts
+node token_mint.ts
 ```
 
 This will:
