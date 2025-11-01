@@ -22,5 +22,5 @@ This will:
 
 ## Token Mint Details
 
-Mint Address: 9cxcsdtsP7FutaotcibcSdYfwtB1PfSpGWkwwjL4yJ1N
+Mint Address: AMWqxSqcKDMycQdeLqvTfJ68S6VxpGa2xXYdHKiVnNch
 

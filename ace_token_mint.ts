@@ -49,7 +49,7 @@ const instructions = getCreateTokenInstructions({
     metadata: {
       name: "Anvils of Solana",
       symbol: "ANVL",
-      uri: "https://github.com/0xherve/metadata/blob/main/AnvilsOfSolana/ANVL",
+      uri: "https://github.com/0xherve/metadata/blob/main/AnvilsOfSolana/ANVL.json",
       isMutable: true,
     },
     metadataAddress: metadataAddress,
