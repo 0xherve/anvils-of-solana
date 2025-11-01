@@ -1,6 +1,6 @@
-# ACE SPL-Token
+# ANVL SPL-Token
 
-This project is for creating and minting a token called `ACE` on the Solana devnet cluster using the `gill` solana client library.
+This project is for creating and minting a token called `ANVL` on the Solana devnet cluster using the `gill` solana client library.
 
 
 ## Script
@@ -22,5 +22,8 @@ This will:
 
 ## Token Mint Details
 
-Mint Address: AMWqxSqcKDMycQdeLqvTfJ68S6VxpGa2xXYdHKiVnNch
+Mint Address: `AMWqxSqcKDMycQdeLqvTfJ68S6VxpGa2xXYdHKiVnNch`
+### Terminal Screenshot 
+<img width="1485" height="221" alt="image" src="https://github.com/user-attachments/assets/b173b69f-5127-479c-b1e4-2e1c7906b526" />
+
 
