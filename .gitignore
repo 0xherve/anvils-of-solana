@@ -1,0 +1,8 @@
+# Ignore common build artifacts and dependency directories
+/build/
+/dist/
+/node_modules/
+
+# Ignore all environment variables files
+*.env*
+
