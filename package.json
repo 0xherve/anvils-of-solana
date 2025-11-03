@@ -1,8 +1,7 @@
 {
-  "name": "ace-spl-token",
-  "version": "1.0.0",
-  "type": "module",
-    
+	"name": "ace-spl-token",
+	"version": "1.0.0",
+	"type": "module",
 	"dependencies": {
 		"gill": "^0.12.0"
 	}

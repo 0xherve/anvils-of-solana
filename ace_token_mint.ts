@@ -5,7 +5,6 @@ import {
   createTransaction,
   signTransactionMessageWithSigners,
   getExplorerLink,
-  getSignatureFromTransaction
 } from "gill";
 
 import {
