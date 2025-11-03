@@ -6,8 +6,8 @@ This project is for creating and minting a token called `ANVL` on the Solana dev
 ## Scripts
 
 There are two scripts in this project:
- -`ace_token_mint.ts`, which creates and mints a new token on the Solana devnet.
- -`mint_tokens.ts`, which creates an Associated Token Address, and mints 1000 ANVL tokens to it
+ - `ace_token_mint.ts`, which creates and mints a new token on the Solana devnet.
+ - `mint_tokens.ts`, which creates an Associated Token Address, and mints 1000 ANVL tokens to it
  
 To run the script, execute the following command:
 
@@ -19,11 +19,14 @@ node mint_tokens.ts
 
 ## Token Mint Details
 
-Token Mint Address: `AMWqxSqcKDMycQdeLqvTfJ68S6VxpGa2xXYdHKiVnNch`
-Associated Token Address: `BMn9FsY1joUs3UT1CDXQgfB5bdm7d2hRTYs7k5sPCCmE`
+- Token Mint Address: `AMWqxSqcKDMycQdeLqvTfJ68S6VxpGa2xXYdHKiVnNch`
+- Associated Token Address: `BMn9FsY1joUs3UT1CDXQgfB5bdm7d2hRTYs7k5sPCCmE`
 
 
-### Terminal Screenshot 
+### Token Mint
 <img width="1485" height="221" alt="image" src="https://github.com/user-attachments/assets/b173b69f-5127-479c-b1e4-2e1c7906b526" />
+
+### Mint to personal wallet
+<img width="1633" height="83" alt="image" src="https://github.com/user-attachments/assets/c6919877-4b41-4015-8a32-965e774786a2" />
 
 
